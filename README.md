@@ -31,6 +31,7 @@ I build things, break things, fix things — and document what I learn.
 ![pfSense](https://img.shields.io/badge/pfSense-212121)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco)
+![FlareVM](https://img.shields.io/badge/FlareVM-212222?logo=FlareVM)
 
 ### 🗄️ Databases & API Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
