@@ -38,7 +38,7 @@ I build things, break things, fix things — and document what I learn.
 
 ## 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=msaimsawaid&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaimsawaid&layout=compact&theme=tokyonight)
 
