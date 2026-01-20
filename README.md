@@ -11,3 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Cybersecurity & Network Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark)
+![Suricata](https://img.shields.io/badge/Suricata-EF6C00)
+![pfSense](https://img.shields.io/badge/pfSense-212121)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
